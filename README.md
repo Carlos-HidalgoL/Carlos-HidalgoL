@@ -54,6 +54,9 @@
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/php-%23012030?style=for-the-badge&logo=php&logoColor=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge)
+
+
 
 
 <br>
@@ -64,6 +67,22 @@
 ![Static Badge](https://img.shields.io/badge/html5-%23F29325?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3-%23589A8D?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+
+<br>
+
+<br>
+
+- Back-End Development
+
+
+![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=Spring%20Boot)
+![Static Badge](https://img.shields.io/badge/.Net%20Core-purple?style=for-the-badge&logo=.Net)
+
+
+
 
 
 
@@ -88,7 +107,6 @@
 ![Static Badge](https://img.shields.io/badge/visualstudiocode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/visualstudio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/apachenetbeanside-%231B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)

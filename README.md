@@ -67,6 +67,8 @@
 ![Static Badge](https://img.shields.io/badge/html5-%23F29325?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/css3-%23589A8D?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=flask)
+
 
 
 
